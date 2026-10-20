@@ -312,7 +312,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">今日のBGMは、光りかがやく朝｜小さな幸せ見つけるケルト音楽｜Relaxing Celtic Music｜癒しBGM　作業用BGM　リラックスBGM🍋</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-p4586mM-_I?si=rUs45cusLjRyZsGf&autoplay=1&mute=0&loop=1&playlist=-p4586mM-_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-p4586mM-_I?si=rUs45cusLjRyZsGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 <br><br><br>
