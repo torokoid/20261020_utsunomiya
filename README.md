@@ -354,7 +354,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/10/29 alis</p>
+<p>Copyright 2026/10/20 alis</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
